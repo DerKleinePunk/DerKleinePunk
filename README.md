@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=DerKleinePunk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DerKleinePunk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DerKleinePunk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 made with [itsvg](https://gprm.itsvg.in)
 
